@@ -17,4 +17,3 @@ A disadvantage would be a lack of mastery of the syntax makes it very difficult 
 
 How do these pros and cons apply to refactoring the original VBA script
 The key benefit was the educational aspect of reworking our code. It also did speed up the runtime on the original script and make it easier to understand. 
-![image](https://user-images.githubusercontent.com/92793248/139604505-30c8caff-7ba7-4794-839f-e8e20d64901a.png)
